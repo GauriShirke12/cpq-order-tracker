@@ -83,12 +83,3 @@ Manufacturers selling customizable products face:
 3. Import sample product catalog via **Data Loader**  
 4. Assign profiles/permission sets to users  
 5. Test with sample Quote-to-Cash flow  
-
----
-
-## 📢 Demo Pitch
-_"This Salesforce solution reduces quote errors by 90%, improves on-time delivery by 25%, and provides real-time visibility across the sales and order lifecycle."_  
-
----
-
-## 📂 Repo Structure
