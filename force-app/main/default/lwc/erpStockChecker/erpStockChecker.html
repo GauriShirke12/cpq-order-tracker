@@ -1,0 +1,6 @@
+<template>
+    <lightning-button label="Check ERP Stock" onclick={handleCheckStock}></lightning-button>
+    <template if:true={erpMessage}>
+        <p>{erpMessage}</p>
+    </template>
+</template>

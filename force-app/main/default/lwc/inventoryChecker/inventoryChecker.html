@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Inventory Checker">
+        <template if:true={stockLevel}>
+            <p>Available Stock: {stockLevel}</p>
+        </template>
+        <template if:false={stockLevel}>
+            <p>No stock data found</p>
+        </template>
+    </lightning-card>
+</template>

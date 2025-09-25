@@ -1,0 +1,12 @@
+<template>
+    <lightning-card title="Order Status Timeline">
+        <div class="slds-p-around_medium slds-grid slds-grid_vertical-align-center">
+            <lightning-progress-indicator current-step={status} type="path" variant="base">
+                <lightning-progress-step label="Created" value="Created"></lightning-progress-step>
+                <lightning-progress-step label="Approved" value="Approved"></lightning-progress-step>
+                <lightning-progress-step label="In Production" value="In Production"></lightning-progress-step>
+                <lightning-progress-step label="Shipped" value="Shipped"></lightning-progress-step>
+            </lightning-progress-indicator>
+        </div>
+    </lightning-card>
+</template>
