@@ -1,5 +1,14 @@
 # Smart CPQ & Order Tracking System for Manufacturing
 
+
+
+## Documentation
+
+ Project documentation, including **architecture diagrams, flow designs, and setup instructions**, visit:  
+
+[Quote-to-Cash Hub Documentation](https://drive.google.com/file/d/1ZkgfTnyztAqVjgsgJI2Q-zMHpKZWPuFe/view?usp=drive_link)
+
+
 ## 📌 Project Overview
 This project implements a **Configure-Price-Quote (CPQ) & Order Visibility Hub** for the **Manufacturing Industry** using Salesforce CPQ and Service Cloud.  
 It solves the challenge of inaccurate quotes, lack of real-time inventory visibility, and poor customer order tracking.  
