@@ -77,9 +77,6 @@ Manufacturers selling customizable products face:
 
 ---
 
-## 🚀 Deployment
-1. Clone this repo  
-2. Deploy metadata using **SFDX**  
-3. Import sample product catalog via **Data Loader**  
-4. Assign profiles/permission sets to users  
-5. Test with sample Quote-to-Cash flow  
+## Author
+
+**Gauri Shirke**  
