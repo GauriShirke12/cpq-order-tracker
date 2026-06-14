@@ -10,7 +10,7 @@
 
 
 ## 📌 Project Overview
-This project implements a **Configure-Price-Quote (CPQ) & Order Visibility Hub** for the **Manufacturing Industry** using Salesforce CPQ and Service Cloud.  
+This project implements a **Sales & Order Visibility Hub** for the **Manufacturing Industry** using Salesforce CPQ and Service Cloud.  
 It solves the challenge of inaccurate quotes, lack of real-time inventory visibility, and poor customer order tracking.  
 
 The solution automates quoting, validates configurations against inventory, and enables full "Quote-to-Cash" tracking with proactive notifications.
@@ -37,7 +37,7 @@ Manufacturers selling customizable products face:
 ---
 
 ## 🎯 Proposed Salesforce Solution
-- Automate CPQ with Salesforce CPQ (SBQQ).  
+
 - Integrate with ERP for **real-time inventory validation**.  
 - Provide **end-to-end order lifecycle tracking** (Quote → Production → Shipment).  
 - Automate approval workflows and proactive customer notifications.  
@@ -69,11 +69,11 @@ Manufacturers selling customizable products face:
 ---
 
 ## 🧩 Tech Stack
-- **Salesforce CPQ (SBQQ)**  
+
 - **Service Cloud**  
 - **Apex (Triggers, Batch, Scheduled)**  
 - **Lightning Web Components (LWC)**  
-- **REST API Integrations (ERP, FedEx/UPS)**  
+- **REST API Integrations**  
 - **Data Loader & SFDX (VS Code)**  
 
 ---
