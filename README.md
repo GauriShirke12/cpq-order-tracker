@@ -1,4 +1,4 @@
-# Smart CPQ & Order Tracking System for Manufacturing
+# Smart Sales & Order Tracking System for Manufacturing
 
 
 
